@@ -15,6 +15,7 @@ Dependancies:
  - Graham Wakefield's [vr] objects for Max (available in the Package Mangager)
  - Java runtime for the binaural panner in VR mode (since it uses an MXJ object)
 
+CURRENTLY ONLY TESTED ON WINDOWS WITH THE OCULUS RIFT AND LEAP MOTION
 
 Simply open the .maxproj file in the main folder and it should start rendering the visuals and outputting audio straight away.
 
