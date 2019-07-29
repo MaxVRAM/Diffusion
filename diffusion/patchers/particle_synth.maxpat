@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1035.0, 192.0, 1930.0, 1059.0 ],
+		"rect" : [ 1035.0, 192.0, 712.0, 489.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -146,7 +146,7 @@
 					"patching_rect" : [ 1701.833251953125, 372.5, 88.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 22.0, 171.5, 49.0, 20.0 ],
-					"text" : "91",
+					"text" : "97",
 					"textcolor" : [ 0.200000002980232, 0.200000002980232, 0.200000002980232, 1.0 ],
 					"textjustification" : 2
 				}
@@ -15194,7 +15194,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 43.308608999999997, 130.393707000000006, 69.0, 22.0 ],
-									"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "grow", "close", "zoom", "nofloat", "menu", "minimize", ";", "#Q", "window", "constrain", 50, 50, 32768, 32768, ";", "#Q", "window", "size", 1045, 371, 1413, 890, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
+									"save" : [ "#N", "thispatcher", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
 									"text" : "thispatcher"
 								}
 
@@ -18790,7 +18790,7 @@
 					"patching_rect" : [ 1593.833251953125, 372.5, 88.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 20.0, 190.5, 58.0, 20.0 ],
-					"text" : "43%",
+					"text" : "15%",
 					"textcolor" : [ 0.200000002980232, 0.200000002980232, 0.200000002980232, 1.0 ],
 					"textjustification" : 2
 				}
