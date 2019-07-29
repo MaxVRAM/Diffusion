@@ -1,4 +1,6 @@
 # Diffusion
+![Diffusion Title](https://i.ibb.co/d79P57T/67238968-10157067022085219-576764208922755072-o.jpg)
+
 Particle system driven granular synthesiser for Max/MSP/Jitter.
 
 DEMO: https://youtu.be/pLePtIZSEB0
