@@ -12,11 +12,11 @@ This contains two versions:
 
 Dependancies:
  - IRCAM Leap Motion external (included, but you may need to download and copy across some files from the original package which you can find here http://ismm.ircam.fr/leapmotion/ )
+ - Graham Wakefield's [vr] objects for Max (available in the Package Mangager)
  - Java runtime for the binaural panner in VR mode (since it uses an MXJ object)
 
 
 Simply open the .maxproj file in the main folder and it should start rendering the visuals and outputting audio straight away.
-
 
 
 chrisvik.com
